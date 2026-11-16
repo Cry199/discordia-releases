@@ -6,7 +6,8 @@
 
 <p align="center">
   Share your screen and your PC's sound with friends, straight from PC to PC (P2P).<br>
-  No server, no account.
+  No server, no account.<br>
+  🌐 <a href="https://discordia.cry199.com.br"><b>discordia.cry199.com.br</b></a>
 </p>
 
 <p align="center">

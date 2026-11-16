@@ -6,7 +6,8 @@
 
 <p align="center">
   Compartilhe a tela e o som do PC com os amigos, direto de PC para PC (P2P).<br>
-  Sem servidor e sem conta.
+  Sem servidor e sem conta.<br>
+  🌐 <a href="https://discordia.cry199.com.br"><b>discordia.cry199.com.br</b></a>
 </p>
 
 <p align="center">
